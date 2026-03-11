@@ -1,16 +1,18 @@
-id: a5af6bf4-b8fa-4270-bb18-aee60ed00842
 name: jetlagrx
-description: "Timeline-based jet lag recovery protocol"
+project_scope: main
+project_type: standalone
+description: Timeline-based jet lag recovery protocol
 tier: prototype
 lane: side-projects
 priority: low
-category: lifestyle
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/jetlagrx
+repo: "https://github.com/mxn2020/jetlagrx"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, jetlag, travel, health, sleep, timezone]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: a5af6bf4-b8fa-4270-bb18-aee60ed00842
